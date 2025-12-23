@@ -32,8 +32,8 @@
 ---
 
 ### 📌 Projects
-- 🔹 Java CRUD Applications  
-- 🔹 Frontend Projects (Netflix / Spotify Clone)  
+- 🔹 Weather-app
+- 🔹 Frontend Projects (SpaceX)  
 - 🔹 Full-Stack Login & Management Systems  
 
 ---
