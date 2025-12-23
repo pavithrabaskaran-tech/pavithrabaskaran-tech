@@ -5,7 +5,7 @@
 <h2 align="center">Hi 👋 I'm Pavithra Baskaran</h2>
 
 <p align="center">
-  Software Developer | Java • JavaScript • HTML • CSS <br/>
+  Software Developer | React • JavaScript • HTML • CSS  • Java<br/>
   Learning Full-Stack | Building real-world projects
 </p>
 
@@ -15,7 +15,7 @@
 - 💻 Software Developer passionate about building applications  
 - 🌱 Currently learning **Full-Stack Development**  
 - 🚀 Building real-world projects  
-- 📍 Current Location: **Kanyakumari District, Tamil Nadu, India**  
+- 📍 Current Location: **Chennai, Tamil Nadu, India**  
 - 🏡 Native: **Anjugramam**
 
 ---
